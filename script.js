@@ -16,7 +16,7 @@ function Search() {
     console.log(data);
      
 
-
+    search.value=""
 
         let divv=document.createElement("div")
         divv.setAttribute("class","cardData")
